@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\лабороторные работы\ЯП\Laba15\Laba15\Source.cpp(49): warning C4715: Stack<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::pop: значение возвращается не при всех путях выполнения
+  Laba15.vcxproj -> D:\лабороторные работы\ЯП\Laba15\Debug\Laba15.exe
